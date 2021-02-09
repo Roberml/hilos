@@ -1,0 +1,6 @@
+C:\Users\rober\source\repos\EjerciciosDeExamen\Tortillas\bin\Debug\Tortillas.exe.config
+C:\Users\rober\source\repos\EjerciciosDeExamen\Tortillas\bin\Debug\Tortillas.exe
+C:\Users\rober\source\repos\EjerciciosDeExamen\Tortillas\bin\Debug\Tortillas.pdb
+C:\Users\rober\source\repos\EjerciciosDeExamen\Tortillas\obj\Debug\Tortillas.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\EjerciciosDeExamen\Tortillas\obj\Debug\Tortillas.exe
+C:\Users\rober\source\repos\EjerciciosDeExamen\Tortillas\obj\Debug\Tortillas.pdb

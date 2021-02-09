@@ -1,0 +1,7 @@
+C:\Users\rober\source\repos\EjerciciosDeExamen\Ejercicio5Timer\bin\Debug\Ejercicio5Timer.exe.config
+C:\Users\rober\source\repos\EjerciciosDeExamen\Ejercicio5Timer\bin\Debug\Ejercicio5Timer.exe
+C:\Users\rober\source\repos\EjerciciosDeExamen\Ejercicio5Timer\bin\Debug\Ejercicio5Timer.pdb
+C:\Users\rober\source\repos\EjerciciosDeExamen\Ejercicio5Timer\obj\Debug\Ejercicio5Timer.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\EjerciciosDeExamen\Ejercicio5Timer\obj\Debug\Ejercicio5Timer.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\EjerciciosDeExamen\Ejercicio5Timer\obj\Debug\Ejercicio5Timer.exe
+C:\Users\rober\source\repos\EjerciciosDeExamen\Ejercicio5Timer\obj\Debug\Ejercicio5Timer.pdb
